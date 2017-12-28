@@ -1,0 +1,25 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	font-size:12px;
+	text-align:center;
+}
+
+p{
+	text-indent:2em;
+}
+
+li{
+	list-style-type:none;
+}
+
+a{
+    text-decoration:none;
+}	
+
+.divClear{
+	clear:both;
+}
